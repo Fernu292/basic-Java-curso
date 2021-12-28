@@ -20,5 +20,22 @@ public class DataTypes {
         float nF = 1.145F;
 
         double nD = 123.283681928;
+
+        //Tipo de dato caracter char
+        //char 2 bytes
+        char letra = 'w';
+        String Nombre = "Luis";
+
+        //Datos logicos 2 bytes
+
+        boolean verdadero = true;
+        boolean falso = false;
+
+        //Variables dinamicas a partir de Java 10
+
+        var nombre = "Luis";
+
+
+        final var nombreNuevo = "Luis Fernadno";
     }
 }
