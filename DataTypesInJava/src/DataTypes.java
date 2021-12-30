@@ -3,7 +3,7 @@ public class DataTypes {
 
         //Int con rango de 10 numeros 4 bytes
         int n = 1234567890;
-
+        System.out.println(n);
         //Byte entre -128 a 127 1 byte
         byte nB = 12;
 
@@ -20,7 +20,7 @@ public class DataTypes {
         float nF = 1.145F;
 
         double nD = 123.283681928;
-
+        System.out.println(nD);
         //Tipo de dato caracter char
         //char 2 bytes
         char letra = 'w';
